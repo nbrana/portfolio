@@ -6,14 +6,14 @@
     <description>Recent content in Categories on Nicholas Brana</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>me@nicholasbrana.com (Some Person)</managingEditor>
-    <webMaster>me@nicholasbrana.com (Some Person)</webMaster>
+    <managingEditor>me@nicholasbrana.com (Nicholas Brana)</managingEditor>
+    <webMaster>me@nicholasbrana.com (Nicholas Brana)</webMaster>
     <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Competitions</title>
       <link>//localhost:1313/categories/competitions/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Nicholas Brana)</author>
       <guid>//localhost:1313/categories/competitions/</guid>
       <description></description>
     </item>
