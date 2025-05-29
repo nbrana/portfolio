@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NCL on Nicholas Brana</title>
+    <link>//localhost:1313/tags/ncl/</link>
+    <description>Recent content in NCL on Nicholas Brana</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>me@nicholasbrana.com (Some Person)</managingEditor>
+    <webMaster>me@nicholasbrana.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/ncl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plans for serving as President of the Fordham Cybersecurity Club</title>
+      <link>//localhost:1313/post/president/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/post/president/</guid>
+      <description>&lt;p&gt;I was recently elected to serve as the President of the Fordham Cybersecurity Club. I was previously serving as Vice President, under the leadership of Laura Suarez, M.S. Cybersecurity Class of &amp;lsquo;25. As an ISACA affiliated club, I am exceted to work with our partners and put on events, and workshops, and lead our University in CTF competitions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;planned-events&#34;&gt;Planned Events&lt;/h3&gt;&#xA;&lt;p&gt;My goal is to increase club participation and membership within the Fall semester, with the goal of training and leading a team to participate in CTF competitions like the National Cyber League. I am hoping to host more jeopardy style CTF&amp;rsquo;s to introduce undergraduate students to the concept and format of CTF&amp;rsquo;s and how to complete these challenges.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placed in the 95th Percentile of the Spring 2025 NCL</title>
+      <link>//localhost:1313/post/post1/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/post/post1/</guid>
+      <description>&lt;p&gt;This spring, I competed in the &lt;strong&gt;National Cyber League (NCL) Spring 2025 Game&lt;/strong&gt;, one of the most well-regarded cybersecurity competitions for students in the U.S.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m proud to share that I placed in the &lt;strong&gt;95th percentile&lt;/strong&gt; nationally — a reflection of the time, effort, and strategic thinking I’ve developed over the past year.&lt;/p&gt;&#xA;&lt;h3 id=&#34;about-the-competition&#34;&gt;About the Competition&lt;/h3&gt;&#xA;&lt;p&gt;The NCL is a biannual cybersecurity competition that tests a wide range of skills, including:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

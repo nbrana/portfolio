@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Nicholas Brana</title>
+    <link>//localhost:1313/page/</link>
+    <description>Recent content in Pages on Nicholas Brana</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>me@nicholasbrana.com (Some Person)</managingEditor>
+    <webMaster>me@nicholasbrana.com (Some Person)</webMaster>
+    <atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;My name is Nicholas Brana I am a cybersecurity Master&amp;rsquo;s studentat Fordham University. I am in my final year of school and excited to begin my career in public service!&lt;/p&gt;&#xA;&lt;h2 id=&#34;roles&#34;&gt;Roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fordham Cybersecurity Club President&lt;/li&gt;&#xA;&lt;li&gt;Graduate Student Council Representative for Cybersecurity Club&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

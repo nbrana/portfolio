@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nicholas Brana</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Nicholas Brana</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>me@nicholasbrana.com (Some Person)</managingEditor>
+    <webMaster>me@nicholasbrana.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achievements</title>
+      <link>//localhost:1313/tags/achievements/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/tags/achievements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTF</title>
+      <link>//localhost:1313/tags/ctf/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/tags/ctf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>//localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ISACA</title>
+      <link>//localhost:1313/tags/isaca/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/tags/isaca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NCL</title>
+      <link>//localhost:1313/tags/ncl/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/tags/ncl/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
