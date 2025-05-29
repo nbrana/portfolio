@@ -8,7 +8,15 @@
     <language>en</language>
     <managingEditor>me@nicholasbrana.com (Some Person)</managingEditor>
     <webMaster>me@nicholasbrana.com (Some Person)</webMaster>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/page/resume/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate><author>me@nicholasbrana.com (Some Person)</author>
+      <guid>//localhost:1313/page/resume/</guid>
+      <description>&lt;h1 id=&#34;nicholas-brana&#34;&gt;Nicholas Brana&lt;/h1&gt;&#xA;&lt;p&gt;6 Ponderosa Lane, Old Bridge, NJ 08857&lt;br&gt;&#xA;732-979-3269&lt;br&gt;&#xA;&lt;a href=&#34;mailto:nbrana129@gmail.com&#34;&gt;nbrana129@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/nbrana129/&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Fordham University, New York, NY&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Master of Science, Cybersecurity&lt;/strong&gt; — &lt;em&gt;Expected January 2026&lt;/em&gt;&lt;br&gt;&#xA;GPA: 3.6/4.0&lt;br&gt;&#xA;&lt;em&gt;Relevant Coursework:&lt;/em&gt; AI for Cybersecurity, Network Forensics, Information Security Ethics&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bachelor of Science, Computer Science&lt;/strong&gt; — &lt;em&gt;May 2024&lt;/em&gt;&lt;br&gt;&#xA;GPA: 3.5/4.0&lt;br&gt;&#xA;&lt;em&gt;Relevant Coursework:&lt;/em&gt; Networking, Data Mining, Computer Forensics&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;certifications--skills&#34;&gt;Certifications &amp;amp; Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Certifications:&lt;/strong&gt;&lt;br&gt;&#xA;CompTIA Security+, (ISC)² Certified in Cybersecurity&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt;&lt;br&gt;&#xA;Python, Java, SQL, JavaScript, HTML/CSS, C++&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About me</title>
       <link>//localhost:1313/page/about/</link>

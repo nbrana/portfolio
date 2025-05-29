@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/page/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/page/resume/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/achievements/</loc>
     <lastmod>2025-05-27T00:00:00+00:00</lastmod>
@@ -39,7 +45,5 @@
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/page/about/</loc>
-  </url><url>
-    <loc>//localhost:1313/page/</loc>
   </url>
 </urlset>
