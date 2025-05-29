@@ -6,7 +6,7 @@ tags: ["cybersecurity", "NCL", "CTF", "achievements", "ISACA"]
 categories: ["competitions"]
 ---
 
-I was recently elected to serve as the President of the Fordham Cybersecurity Club. I was previously serving as Vice President, under the leadership of Laura Suarez, M.S. Cybersecurity Class of '25. As an ISACA affiliated club, I am exceted to work with our partners and put on events, and workshops, and lead our University in CTF competitions.
+I was recently elected to serve as the President of the Fordham Cybersecurity Club. I was previously serving as Vice President, under the leadership of Laura Suarez, M.S. Cybersecurity Class of '25. As an ISACA affiliated club, I am excited to work with our partners and put on events, and workshops, and lead our University in CTF competitions.
 
 ### Planned Events
 
